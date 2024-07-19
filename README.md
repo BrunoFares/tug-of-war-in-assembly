@@ -2,9 +2,7 @@
 
 MARS Simulator Tug-of-War Game in MIPS Assembly
 
-By Bruno Fares and Peter Khaled 
-
-My friend Peter and I worked on this project for our Computer Architecture course.
+By Bruno Fares and Peter Khaled for the Computer Architecture course at Notre Dame University - Louaize.
 
 1. The Game
 
